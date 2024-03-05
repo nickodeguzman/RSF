@@ -849,10 +849,11 @@ height: 100%; */
   .hidden-logo{
     display: none;
   }
-
+*/
      @media (width < 500px){
-       .hidden-logo{
-    font-size: 1.5rem;
-  
+      .header #home h1{
+    font-size: 1.2rem;
+    
   }
-  } */
+  } 
+
