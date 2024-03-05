@@ -851,7 +851,7 @@ height: 100%; */
   }
 */
      @media (width < 500px){
-      .header #home h1{
+      header #home h1{
     font-size: 1rem;
     
   }
